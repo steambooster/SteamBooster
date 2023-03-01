@@ -1,0 +1,17 @@
+{
+	"name": "SteamBooster",
+	"version": "1.0.2",
+	"description": "2FA destekli Steam Hour Booster.",
+	"scripts": {
+		"start": "node src/hourBooster.js"
+	},
+	"keywords": [],
+	"author": "Mahir Koç",
+	"license": "https://github.com/steambooster/license/blob/b2311daf7cab109cf6451a326d72b689d65c6fda/LICENSE",
+	"dependencies": {
+		"easytimer.js": "^4.5.4",
+		"readline-sync": "^1.4.10",
+		"steam-totp": "^2.1.2",
+		"steam-user": "^4.27.0"
+	}
+}
