@@ -1,4 +1,4 @@
--   #### Bu [_Mahir Koç tarafından yapılan SteamBooster._](https://github.com/steambooster/license/blob/b2311daf7cab109cf6451a326d72b689d65c6fda/LICENSE)
+-   #### Bu Mahir Koç tarafından yapılan [_SteamBooster._](https://github.com/steambooster/license/blob/b2311daf7cab109cf6451a326d72b689d65c6fda/LICENSE)
 
 # SteamBooster, 2FA destekli basit bir Steam saat hızlandırıcı
 
