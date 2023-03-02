@@ -1,7 +1,7 @@
 {
 	"name": "SteamBooster",
 	"version": "1.0.2",
-	"description": "2FA destekli Steam Hour Booster.",
+	"description": "SteamBooster, do you want to increase steam time without forcing your computer in any way? https://steambooster.gitbook.io/ An open source software where you can hour in steam games completely free of charge! SteamBooster",
 	"scripts": {
 		"start": "node src/hourBooster.js"
 	},
