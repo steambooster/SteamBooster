@@ -1,4 +1,4 @@
--   #### This is [_SteamBooster._](https://github.com/steambooster/license/blob/b2311daf7cab109cf6451a326d72b689d65c6fda/LICENSE) by Mahir Koç
+#### This is [_SteamBooster._](https://github.com/steambooster/license/blob/b2311daf7cab109cf6451a326d72b689d65c6fda/LICENSE) by Mahir Koç
 
 # SteamBooster, do you want to increase steam time without forcing your computer in any way?
 https://steambooster.gitbook.io/ An open source software where you can clock in steam games completely free of charge! SteamBooster
